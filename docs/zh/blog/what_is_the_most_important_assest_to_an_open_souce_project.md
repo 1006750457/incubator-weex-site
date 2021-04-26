@@ -74,7 +74,7 @@ Trademark 可以看作是 Brand 的实例化。Trademark 一般和某种特定�
 
 # 后记
 本文写作的契机来源于 [COSCon‘ 2019](https://www.bagevent.com/event/5744455) 中的观点碰撞，会议嘉宾们的一些观点与本文主旨无关，但值得进一步思考，故写在后记中。
-* 开源项目并不只是写代码，有很多非代码内容，需要工程师、产品经历、运营等多种角色参与，很多时候一个工程师同时去扮演上述三种角色是很难的。
+* 开源项目并不只是写代码，有很多非代码内容，需要工程师、产品经理、运营等多种角色参与，很多时候一个工程师同时去扮演上述三种角色是很难的。
 * 要把开源项目当作一个产品来打造，而不仅仅是技术与代码。
 * 目前开源项目大多集中在 Infrastructure 层面，缺少 Application 层的开源项目，而这些 Infrastructure 的工作无法产生直接的经济回报。**The OSS contributors are not well paid, they just do things for fun.** 基于公链的区块链项目，有可能做到 Application 层开源的同时，还能给作者提供良好的经济回报。
 
